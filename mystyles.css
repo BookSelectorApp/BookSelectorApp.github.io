@@ -68,11 +68,16 @@ main { padding-left: 20px;
         padding-top: 1px;
         padding-bottom: 1px;
 }
+main p {
+    margin: 4px 0px;
+    text-indent: 2em;
+}
 main img {
     width: auto; 
     height: 170px; 
     border: solid 4px #1c1d21; 
     border-radius: 4px;
+    margin-bottom: 4px;
 }
 main strong { font-size: 18px; }
 main ul { padding-left: 15px; margin: 5px 0px; }
